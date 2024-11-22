@@ -1,0 +1,3 @@
+Burger:Bun,Patty,Cheese
+Pizza:Dou,Tomato Sauce,Cheese
+Salad:Lettace,Onion,Carrot

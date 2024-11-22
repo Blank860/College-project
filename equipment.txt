@@ -1,0 +1,4 @@
+Knife,20,5
+Pots,35,15
+fridges,7,0
+Tables,20,3

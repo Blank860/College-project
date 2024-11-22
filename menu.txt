@@ -1,0 +1,3 @@
+Burger,30
+Pizza,50
+Salad,7
